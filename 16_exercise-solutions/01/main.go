@@ -3,12 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	helloWorld()
-	myNameIs()
-	yourNameIs()
-	remainder()
-	even()
-	fizzBuzz()
+	//helloWorld()
+	//myNameIs()
+	//yourNameIs()
+	//remainder()
+	//even()
+	//fizzBuzz()
 	multiples()
 }
 
